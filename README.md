@@ -1,6 +1,7 @@
 # 104 首頁 POC 整招版 - F2E
 
 [![Build Status](https://travis-ci.com/eden90267/104jb-c-ipoc-ceta-f2e.svg?branch=master)](https://travis-ci.com/eden90267/104jb-c-ipoc-ceta-f2e)
+[![Coverage Status](https://coveralls.io/repos/github/eden90267/104jb-c-ipoc-ceta-f2e/badge.svg)](https://coveralls.io/github/eden90267/104jb-c-ipoc-ceta-f2e)
 
 ## 目錄
 
