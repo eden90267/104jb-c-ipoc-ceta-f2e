@@ -1,0 +1,8 @@
+<%- include('layout/_header') %>
+<%- include('../components/spec-company/_spec-company') %>
+<%- include('layout/_script', {ad: true}) %>
+<script>
+  new SpecCompany().render(error, data, false);
+</script>
+</body>
+</html>

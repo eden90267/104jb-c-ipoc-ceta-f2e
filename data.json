@@ -1,0 +1,1365 @@
+{
+  "job-search": {
+    "keys": [
+      {
+        "id": 1,
+        "name": "可年後上班",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&order=1&asc=0&startby=4&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 2,
+        "name": "高薪作業員",
+        "url": "https://104.com.tw/jobs/search/?ro=0&jobcat=2010001002&order=1&asc=0&sctp=S&scmin=40000&page=2&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 3,
+        "name": "急徵",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E6%80%A5%E5%BE%B5%20%E7%AB%8B%E5%8D%B3%E4%B8%8A%E7%8F%AD&order=1&asc=0&excludeIndustryCat=1009001000&kwop=7&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 4,
+        "name": "二度就業",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&order=1&asc=0&rostatus=2048&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 5,
+        "name": "無經驗可",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E7%84%A1%E7%B6%93%E9%A9%97%E5%8F%AF&order=1&asc=0&kwop=7&page=1&jobexp=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 6,
+        "name": "月薪四萬起",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&order=2&asc=0&sctp=S&scmin=40000&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 7,
+        "name": "彈性排班",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E5%BD%88%E6%80%A7%E6%8E%92%E7%8F%AD%20%E5%BD%88%E6%80%A7%E6%8E%92%E4%BC%91&order=1&asc=0&excludeIndustryCat=1009001000&kwop=7&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 8,
+        "name": "兼職",
+        "url": "https://www.104.com.tw/jobs/search/?ro=2&order=2&asc=0&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 9,
+        "name": "日薪",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E6%97%A5%E8%96%AA&order=1&asc=0&kwop=7&page=11&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 10,
+        "name": "晚班",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&order=2&asc=0&s9=2&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 11,
+        "name": "短期",
+        "url": "https://www.104.com.tw/jobs/search/?ro=2&order=1&asc=0&page=1&wt=2&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 12,
+        "name": "行政",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&jobcat=2002001000&keyword=%E8%A1%8C%E6%94%BF&order=1&asc=0&kwop=7&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 13,
+        "name": "網拍",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E7%B6%B2%E6%8B%8D&order=1&asc=0&kwop=7&page=8&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 14,
+        "name": "咖啡",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E5%92%96%E5%95%A1&indcat=1016002000&order=1&asc=0&kwop=1&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 15,
+        "name": "日文",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E6%97%A5%E6%96%87&order=1&asc=0&lang=2&kwop=7&page=2&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 16,
+        "name": "助理",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E5%8A%A9%E7%90%86&order=2&asc=0&kwop=7&page=3&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 17,
+        "name": "時薪150↑",
+        "url": "https://www.104.com.tw/jobs/search/?ro=2&keyword=%E6%99%82%E8%96%AA150%E8%B5%B7&order=1&asc=0&sctp=P&scmin=150&kwop=7&page=1&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 18,
+        "name": "遊戲",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&jobcat=2004002005&keyword=%E9%81%8A%E6%88%B2&order=1&asc=0&kwop=7&page=4&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 19,
+        "name": "國外業務",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&jobcat=2005003005%2C2005003002&order=1&asc=0&page=2&mode=s&jobsource=indexpoc2018"
+      },
+      {
+        "id": 20,
+        "name": "英文",
+        "url": "https://www.104.com.tw/jobs/search/?ro=0&keyword=%E8%8B%B1%E6%96%87&order=1&asc=0&lang=1&kwop=7&page=1&mode=s&jobsource=indexpoc2018"
+      }
+    ],
+    "areas": [
+      {
+        "id": 1,
+        "name": "找公司",
+        "url": "https://www.104.com.tw/cust/list/index/?jobsource=checkc"
+      },
+      {
+        "id": 2,
+        "name": "最新工作",
+        "url": "https://www.104.com.tw/area/newjob/104jobs.cfm"
+      },
+      {
+        "id": 3,
+        "name": "外商專區",
+        "url": "https://www.104.com.tw/area/cj/foreign/searchJob"
+      },
+      {
+        "id": 4,
+        "name": "上市上櫃",
+        "url": "https://www.104.com.tw/area/cj/market/technology"
+      },
+      {
+        "id": 5,
+        "name": "科技園區",
+        "url": "https://www.104.com.tw/area/cj/tech/hsinchu"
+      },
+      {
+        "id": 6,
+        "name": "薪資情報",
+        "url": "https://www.104.com.tw/jb/wage/jobWage/view?type=2&wf=fresh"
+      },
+      {
+        "id": 7,
+        "name": "升學就業地圖",
+        "url": "https://www.104.com.tw/area/freshman/seniors"
+      },
+      {
+        "id": 8,
+        "name": "幸福企業",
+        "url": "https://www.104.com.tw/employerbrand/?utm_source=PC_index&utm_campaign=employerbrand"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "職務找工作",
+        "url": "https://www.104.com.tw/jb/category/?cat=1&jobsource=indexpoc2018"
+      },
+      {
+        "id": 2,
+        "name": "產業找工作",
+        "url": "https://www.104.com.tw/jb/category/?cat=3&jobsource=indexpoc2018"
+      },
+      {
+        "id": 3,
+        "name": "地區找工作",
+        "url": "https://www.104.com.tw/jb/category/?cat=2&jobsource=indexpoc2018"
+      }
+    ]
+  },
+  "banner-1_1": [
+    {
+      "id": 1,
+      "imgPath": "img/banner_320X210.jpg",
+      "imgDescription": "banner_320X210",
+      "title": "近萬筆年後上班職缺1",
+      "description": "網路行銷、金融理專、業務電銷、程式設計…等職務，各家企業求才若渴，年後，你也有意轉戰新職務或轉任新公司，速速於年前卡位>>>",
+      "url": "https://goo.gl/pRu6Gn",
+      "subLinks": [
+        {
+          "name": "外商_可年後上班：星展、紐馬克、DHL、瑞健、中美嘉吉",
+          "url": "https://goo.gl/ifr34p"
+        },
+        {
+          "name": "上市櫃_可年後上班：力成科、天剛、中國探針、環隆科技",
+          "url": "https://goo.gl/fMQK2m"
+        }
+      ]
+    }
+  ],
+  "workplace-focus": [
+    {
+      "id": 1,
+      "url": "https://goo.gl/Z1zQPV",
+      "imgPath": "img/plus_320X180_1.jpg",
+      "imgDescription": "plus_320X180_1",
+      "title": "新版勞基法修正內容對照表",
+      "description": "Sherry Chiang▶人資同學會<br>震憾人資界的勞基法修改，對勞方、資方有何影響？",
+      "subLinks": [
+        {
+          "url": "https://goo.gl/b3oSg7",
+          "name": "南向工作須知：越南工作法規"
+        },
+        {
+          "url": "https://goo.gl/nzFmhi",
+          "name": "離職幾次，是企業容忍的底線？"
+        },
+        {
+          "url": "https://goo.gl/zQNBNt",
+          "name": "年底轉職心情故事"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://goo.gl/AwTSSM",
+      "imgPath": "img/plus_320X180_2.jpg",
+      "imgDescription": "plus_320X180_2",
+      "title": "[討論] 36歲的抉擇～留不留？",
+      "description": "目前擔任約聘人資，主管覺得我工作表現不差希望能留下幫忙但約聘身份不變…",
+      "subLinks": [
+        {
+          "url": "https://goo.gl/Crk41Y",
+          "name": "中國工作甘苦：千金難買安定感"
+        },
+        {
+          "url": "https://goo.gl/e8osJj",
+          "name": "高雄地區工程師的薪資？"
+        },
+        {
+          "url": "https://goo.gl/dh6aEX",
+          "name": "除了有實習的人都找不到相關工作"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://goo.gl/wDpkZj",
+      "imgPath": "img/plus_320X180_3.jpg",
+      "imgDescription": "plus_320X180_3",
+      "title": "2018年4成企業平均加薪4%！？",
+      "description": "景氣回溫！<br>104發布2018薪酬趨勢展望，40%企業會調薪，平均調幅4%，調薪最高產業是…",
+      "subLinks": [
+        {
+          "url": "https://goo.gl/6Bsdhu",
+          "name": "畢業半年還沒找到穩定工作怎麼辦"
+        },
+        {
+          "url": "https://goo.gl/obCX48",
+          "name": "面試9大常見崩潰問題大破解"
+        },
+        {
+          "url": "https://goo.gl/kybCRN",
+          "name": "不是新鮮人卻想要轉換跑道"
+        }
+      ]
+    }
+  ],
+  "workplace-senior": [
+    {
+      "id": 1,
+      "url": "https://beagiver.com/profile/298854",
+      "imgPath": "img/giver_176X176.png",
+      "imgDescription": "giver_320X180",
+      "title": "關於Justin Lee李明剛",
+      "description1": "始於電子商務，熟悉行動支付，歷經創新創業、走過兩岸通路、沉浸高階獵才、樂於分享實務。",
+      "description2": "出身於資訊管理，因為好奇心與坐不住的性格，產品業務行銷創業兩岸獵才橫豎走了一遭。也許看得稍微多了點，許許多多的心得忍不住分享！未來，希望貢獻一點心力，幫助更多的朋友教學相長，協助更多的企業走出舞台！",
+      "experiences": [
+        "藍天百腦匯集團 總裁室副處長",
+        "30 年前電商系統市佔第一",
+        "20 年前電信支付創新專利",
+        "10 年中兩岸通路潮起潮落",
+        "5&nbsp;&nbsp;&nbsp;年內獵才規劃分享學習"
+      ]
+    }
+  ],
+  "ad": {
+    "statusCode": 200,
+    "success": true,
+    "error": "",
+    "result": {
+      "b_776": {
+        "spec_type": "16",
+        "init_pic_filename": "",
+        "push_pic_filename": "",
+        "default_pic_filename": "",
+        "link": "",
+        "outside_link": ""
+      },
+      "b_777": [
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_777_11_60",
+          "param_view": "view_1_145_777_11_60",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_260X210.gif",
+          "link": "http://www.104.com.tw/cfdocs/project/1712/171214_micron_hr/index.html",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_777_11_61",
+          "param_view": "view_1_145_777_11_61",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_260X210_2.jpg",
+          "link": "http://www.104.com.tw/cfdocs/project/1712/171204_iii_hr/p3.html",
+          "outside_link": "0"
+        }
+      ],
+      "b_782": [
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_782_11_62",
+          "param_view": "view_1_145_782_11_62",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_1.jpg",
+          "link": "https://www.104.com.tw/cfdocs/project/1711/171124_delta_hr/index.html",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_782_11_63",
+          "param_view": "view_1_145_782_11_63",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_2.jpg",
+          "link": "http://www.104.com.tw/cfdocs/project/1712/171019_Starbucks_hr_3/index.html",
+          "outside_link": "0"
+        }
+      ],
+      "b_779": [
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_779_11_64",
+          "param_view": "view_1_145_779_11_64",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_3.jpg",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=3c3a426e4c363e673c423a1d1d1d1d5f2443a363189j99",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_779_11_65",
+          "param_view": "view_1_145_779_11_65",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_4.jpg",
+          "link": "https://www.104.com.tw/cfdocs/project/1708/170802_family_hr_ma/index.html",
+          "outside_link": "0"
+        }
+      ],
+      "b_780": [
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_779_11_64",
+          "param_view": "view_1_145_779_11_64",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/1024X120_1.jpg",
+          "link": "https://www.104.com.tw/cfdocs/project/1709/170929_formosa_hr/index.html",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "11",
+          "param_click": "click_1_145_779_11_65",
+          "param_view": "view_1_145_779_11_65",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/1024X120_2.jpg",
+          "link": "http://www.104.com.tw/cfdocs/project/1710/171013_kla_hr/index.html",
+          "outside_link": "0"
+        }
+      ],
+      "b_781": [
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_101",
+          "param_view": "view_1_145_781_14_101",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_1.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_102",
+          "param_view": "view_1_145_781_14_102",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_2.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_103",
+          "param_view": "view_1_145_781_14_103",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_3.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_104",
+          "param_view": "view_1_145_781_14_104",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_4.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_105",
+          "param_view": "view_1_145_781_14_105",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_5.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_106",
+          "param_view": "view_1_145_781_14_106",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_6.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_107",
+          "param_view": "view_1_145_781_14_107",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_7.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_108",
+          "param_view": "view_1_145_781_14_108",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_8.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_109",
+          "param_view": "view_1_145_781_14_109",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_9.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_110",
+          "param_view": "view_1_145_781_14_110",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_10.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_111",
+          "param_view": "view_1_145_781_14_111",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_11.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_112",
+          "param_view": "view_1_145_781_14_112",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_12.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_113",
+          "param_view": "view_1_145_781_14_113",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_13.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        },
+        {
+          "spec_type": "14",
+          "param_click": "click_1_145_781_14_114",
+          "param_view": "view_1_145_781_14_114",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_14.gif",
+          "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+          "outside_link": "0"
+        }
+      ],
+      "b_784": [
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_784_17_201",
+          "param_view": "view_1_145_784_17_201",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_1.jpg",
+          "title": "全家便利商店",
+          "word": "就近分配鄰近門市，上下班很近<br>彈性排班，有三時段可挑<br>依表現有不同薪資級距調整。",
+          "link": "http://www.104.com.tw/cfdocs/project/1707/170703_family_hr_pt/index.html?jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "門市計時人員",
+              "link": "https://www.104.com.tw/job/?jobno=4r00z&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "",
+              "link": "",
+              "outside_link": "0"
+            }
+          ]
+        },
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_784_17_202",
+          "param_view": "view_1_145_784_17_202",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_3.jpg",
+          "title": "中國信託商業銀行",
+          "word": "中國信託屢獲國內外重要獎項肯定<br>榮獲天下雜誌金牌服務業銀行類第一<br>誠摯邀請您，加入我們的行列！",
+          "link": "http://www.104.com.tw/jb/service/ad/TransferAddress?trnid=adn_40513&jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "信貸電銷專員",
+              "link": "https://www.104.com.tw/job/?jobno=4gocq&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "法令遵循人員",
+              "link": "https://www.104.com.tw/job/?jobno=5b93u&jobsource=ipochotstar18",
+              "outside_link": "0"
+            }
+          ]
+        }
+      ],
+      "b_785": [
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_785_17_203",
+          "param_view": "view_1_145_785_17_203",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_5.jpg",
+          "title": "Sisley",
+          "word": "來自法國專業植物美容保養代表品牌<br>挑戰百萬年薪，打造頂級人生！<br>超優渥員工免費公司產品",
+          "link": "http://www.104.com.tw/jb/service/ad/TransferAddress?trnid=adn_40537&jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "儲備櫃長/顧問",
+              "link": "https://www.104.com.tw/job/?jobno=5fgy3&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "芳療護膚師",
+              "link": "https://www.104.com.tw/job/?jobno=41z7z&jobsource=ipochotstar18",
+              "outside_link": "0"
+            }
+          ]
+        },
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_785_17_204",
+          "param_view": "view_1_145_785_17_204",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_7.jpg",
+          "title": "玉山銀行",
+          "word": "提供全方位優質服務與品牌承諾而努力<br>完善的教育訓練制度、年終獎金與紅利<br>行員優惠存款、貸款及持股信託基金",
+          "link": "https://hr.esunfhc.com/StaffAcquisition/hireexam/EliteDetail/7?jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "APP軟體工程師",
+              "link": "https://www.104.com.tw/job/?jobno=4a1iw&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "",
+              "link": "",
+              "outside_link": "0"
+            }
+          ]
+        }
+      ],
+      "b_786": [
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_786_17_205",
+          "param_view": "view_1_145_786_17_205",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_2.jpg",
+          "title": "康健人壽",
+          "word": "外商公司制度健全，無經驗可<br>可不需跑外勤，不動用人脈<br>無業績不倒扣，福利超優",
+          "link": "https://hr.esunfhc.com/StaffAcquisition/hireexam/EliteDetail/7?jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "新竹電銷專員",
+              "link": "https://www.104.com.tw/job/?jobno=5ap2s&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "高雄電銷專員",
+              "link": "https://www.104.com.tw/job/?jobno=5ap37&jobsource=ipochotstar18",
+              "outside_link": "0"
+            }
+          ]
+        },
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_786_17_206",
+          "param_view": "view_1_145_786_17_206",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_4.jpg",
+          "title": "世界先進",
+          "word": "研發替代役與技術員招募中<br>享自我推薦獎金15,000元<br>歡迎想進入半導體產業的您",
+          "link": "http://www.104.com.tw/cfdocs/project/1712/171120_vis_hr/index.html?jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "製造工程師",
+              "link": "https://www.104.com.tw/job/?jobno=5ppsr&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "日/夜班技術員",
+              "link": "https://www.104.com.tw/job/?jobno=e46s&jobsource=ipochotstar18",
+              "outside_link": "0"
+            }
+          ]
+        }
+      ],
+      "b_787": [
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_787_17_207",
+          "param_view": "view_1_145_787_17_207",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_6.jpg",
+          "title": "寶成國際集團",
+          "word": "世界最大製鞋集團<br>富比世50大亞太最佳企業<br>加入寶成，給您無限可能",
+          "link": "http://www.104.com.tw/cfdocs/project/1712/171218_pouchen_hr/index.html?jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "品管工程師",
+              "link": "https://www.104.com.tw/job/?jobno=4m5ig&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "品管基層主管",
+              "link": "https://www.104.com.tw/job/?jobno=4ld7i&jobsource=ipochotstar18",
+              "outside_link": "0"
+            }
+          ]
+        },
+        {
+          "spec_type": "17",
+          "param_click": "click_1_145_787_17_208",
+          "param_view": "view_1_145_787_17_208",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_7.jpg",
+          "title": "玉山銀行",
+          "word": "提供全方位優質服務與品牌承諾而努力<br>完善的教育訓練制度、年終獎金與紅利<br>行員優惠存款、貸款及持股信託基金",
+          "link": "https://hr.esunfhc.com/StaffAcquisition/hireexam/EliteDetail/7?jobsource=ipochotstar18",
+          "outside_link": "0",
+          "tags": [
+            {
+              "tag": "APP軟體工程師",
+              "link": "https://www.104.com.tw/job/?jobno=4a1iw&jobsource=ipochotstar18",
+              "outside_link": "0"
+            },
+            {
+              "tag": "",
+              "link": "",
+              "outside_link": "0"
+            }
+          ]
+        }
+      ],
+      "b_783": [
+        {
+          "spec_type": "18",
+          "param_click": "click_1_145_783_18_301",
+          "param_view": "view_1_145_783_18_301",
+          "pic_filename": "http://aidma.s104.com.tw/test/img/banner_520x400.png",
+          "init_pic_filename": "",
+          "logo_pic_filename": "",
+          "logo_pic_link": "",
+          "logo_pic_outside_link": "",
+          "title": "【全家集團聯合徵才】歡迎你的加入",
+          "title_link": "http://www.104.com.tw/cfdocs/project/1712/171228_family/page3.html",
+          "title_outside_link": "0",
+          "word": "",
+          "word_link": "",
+          "word_outside_link": "0",
+          "tags": [
+            {
+              "tag": "全家國際餐飲 大戶屋大安店-外場正職",
+              "link": "https://www.104.com.tw/job/?jobno=59f0i&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "福比麵包 幸福麵包場製作員(新竹新豐)",
+              "link": "https://www.104.com.tw/job/?jobno=50sto&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "全台物流 企劃專員",
+              "link": "https://www.104.com.tw/job/?jobno=5vgjq&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "日翊文化 物流專員",
+              "link": "https://www.104.com.tw/job/?jobno=5tqm8&jobsource=idujob1",
+              "outside_link": "0"
+            }
+          ],
+          "texts": [
+            "北區+中區",
+            "日商公司"
+          ],
+          "extra_link": "http://www.104.com.tw/cfdocs/project/1712/171228_family/page3.html",
+          "extra_outside_link": "0"
+        },
+        {
+          "spec_type": "18",
+          "param_click": "click_1_145_783_18_302",
+          "param_view": "view_1_145_783_18_302",
+          "pic_filename": "https://fakeimg.pl/520x400/",
+          "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_1.jpg",
+          "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_1.gif",
+          "logo_pic_link": "http://www.104.com.tw/cfdocs/project/1712/171208_terapower_hr/index.html",
+          "logo_pic_outside_link": "0",
+          "title": "晶兆成科技股份有限公司",
+          "title_link": "http://www.104.com.tw/cfdocs/project/1712/171208_terapower_hr/index.html",
+          "title_outside_link": "0",
+          "word": "我們積極延攬各方菁英，希冀與我們一同開創測試新世代！",
+          "word_link": "http://www.104.com.tw/cfdocs/project/1712/171208_terapower_hr/index.html",
+          "word_outside_link": "0",
+          "tags": [
+            {
+              "tag": "常日設備工程師",
+              "link": "https://www.104.com.tw/job/?jobno=4xr0g&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "輪班設備工程師(FT)",
+              "link": "https://www.104.com.tw/job/?jobno=4ozdm&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "產品工程師",
+              "link": "https://www.104.com.tw/job/?jobno=3uy64&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "資訊工程師(system)",
+              "link": "https://www.104.com.tw/job/?jobno=5qmom&jobsource=idujob1",
+              "outside_link": "0"
+            }
+          ],
+          "texts": [
+            "新竹縣",
+            "半導體製造業"
+          ],
+          "extra_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4c60426b5a6c3e2056583a1d1d1d1d5f2443a363189j99&jobsource=idujob1&page=1#info06",
+          "extra_outside_link": "0"
+        },
+        {
+          "spec_type": "18",
+          "param_click": "click_1_145_783_18_303",
+          "param_view": "view_1_145_783_18_303",
+          "pic_filename": "https://fakeimg.pl/520x400/",
+          "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_2.jpg",
+          "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_2.gif",
+          "logo_pic_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+          "logo_pic_outside_link": "0",
+          "title": "資生堂",
+          "title_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+          "title_outside_link": "0",
+          "word": "培訓期間即提供完整的福利，希望你在這裡用心領略美好的力量！",
+          "word_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+          "word_outside_link": "0",
+          "tags": [
+            {
+              "tag": "美容顧問(大台北地區)",
+              "link": "https://www.104.com.tw/job/?jobno=2iz4k&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "美容顧問(桃園地區)",
+              "link": "https://www.104.com.tw/job/?jobno=3ln94&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "美容顧問(台中地區)",
+              "link": "https://www.104.com.tw/job/?jobno=3ln97&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "美容顧問(彰化員林地區)",
+              "link": "https://www.104.com.tw/job/?jobno=3qzif&jobsource=idujob1",
+              "outside_link": "0"
+            }
+          ],
+          "texts": [
+            "台北市",
+            "化妝品零售業"
+          ],
+          "extra_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+          "extra_outside_link": "0"
+        },
+        {
+          "spec_type": "18",
+          "param_click": "click_1_145_783_18_304",
+          "param_view": "view_1_145_783_18_304",
+          "pic_filename": "https://fakeimg.pl/520x400/",
+          "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_3.jpg",
+          "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_3.gif",
+          "logo_pic_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+          "logo_pic_outside_link": "0",
+          "title": "友達光電股份有限公司",
+          "title_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+          "title_outside_link": "0",
+          "word": "全球光電解決方案領導廠商，營運據點遍及海內外多個國家！",
+          "word_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+          "word_outside_link": "0",
+          "tags": [
+            {
+              "tag": "製程/設備技師(后里旗艦廠)",
+              "link": "https://www.104.com.tw/job/?jobno=33x64&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "測試整合技師(后里旗艦廠)",
+              "link": "https://www.104.com.tw/job/?jobno=5lwph&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "生產技術員(后里旗艦廠)",
+              "link": "https://www.104.com.tw/job/?jobno=33x48&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "數位IC設計工程師(華亞廠)",
+              "link": "https://www.104.com.tw/job/?jobno=3kg8o&jobsource=idujob1",
+              "outside_link": "0"
+            }
+          ],
+          "texts": [
+            "新竹市",
+            "光學器材製造業"
+          ],
+          "extra_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+          "extra_outside_link": "0"
+        },
+        {
+          "spec_type": "18",
+          "param_click": "click_1_145_783_18_305",
+          "param_view": "view_1_145_783_18_305",
+          "pic_filename": "https://fakeimg.pl/520x400/",
+          "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_4.jpg",
+          "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_4.gif",
+          "logo_pic_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4f6749753b3d475d3839416a4b453e68647774a30534d47282828286a3f682d2c917j02&jobsource=idujob1",
+          "logo_pic_outside_link": "0",
+          "title": "東京威力科創股份有限公司",
+          "title_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4f6749753b3d475d3839416a4b453e68647774a30534d47282828286a3f682d2c917j02&jobsource=idujob1",
+          "title_outside_link": "0",
+          "word": "全球第二大半導體設備商，以追求世界最高技術水準為目標。",
+          "word_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4f6749753b3d475d3839416a4b453e68647774a30534d47282828286a3f682d2c917j02&jobsource=idujob1",
+          "word_outside_link": "0",
+          "tags": [
+            {
+              "tag": "契約助理工程師(新竹)",
+              "link": "https://www.104.com.tw/job/?jobno=54b3u&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "Technical Support Engineer",
+              "link": "https://www.104.com.tw/job/?jobno=48wrj&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "Process Engineer",
+              "link": "https://www.104.com.tw/job/?jobno=3y5ib&jobsource=idujob1",
+              "outside_link": "0"
+            },
+            {
+              "tag": "契約助理工程師(台中)",
+              "link": "https://www.104.com.tw/job/?jobno=4s5ub&jobsource=idujob1",
+              "outside_link": "0"
+            }
+          ],
+          "texts": [
+            "新竹市",
+            "半導體產業"
+          ],
+          "extra_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=504a436d3c6c3f2548423c1d1d1d1d5f2443a363189j48&jobsource=idujob1&page=1#info06",
+          "extra_outside_link": "0"
+        }
+      ]
+    }
+  },
+  "higher-job": {
+    "manageJobList": [
+      {
+        "jobType": "0",
+        "jobNo": "8282227",
+        "jobName": "高階主管測試",
+        "jobNameSnippet": "高階主管測試",
+        "jobRole": "3",
+        "jobRo": "3",
+        "jobAddrNoDesc": "台北市大安區",
+        "jobAddress": "信XXXXXXX號10樓之4",
+        "description": "",
+        "optionEdu": "大學",
+        "period": "00",
+        "periodDesc": "經歷不拘",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "83852912000",
+        "custName": "美XXXXXXX會駐華辦事處",
+        "coIndustry": "1005001009",
+        "coIndustryDesc": "其他教育服務業",
+        "salaryLow": "00004",
+        "salaryHigh": "00004",
+        "salaryDesc": "年薪 200~250 萬元",
+        "appearDate": "20170815",
+        "appearDateDesc": "昨天",
+        "optionZone": "0",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=4363452b3f39435934353d66374139208434d462b43394324242424683c642928654j51&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4xilv&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=4363452b3f39435934353d66374139208434d462b43394324242424683c642928654j51&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "08",
+          "day": "15"
+        }
+      },
+      {
+        "jobType": "2",
+        "jobNo": "8243010",
+        "jobName": "SA 系統分析師",
+        "jobNameSnippet": "SA 系統分析師",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "台北市中正區",
+        "jobAddress": "林XXXXXXX4之2號7樓",
+        "description": "1. 需求訪談\n2. 撰寫設計SA/SD文件\n3. 熟 SQL \n4. 需配合到台中出差，差旅費用公司支付",
+        "optionEdu": "專科",
+        "period": "06",
+        "periodDesc": "5年以上",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "53102940000",
+        "custName": "德XXXXXXX股份有限公司",
+        "coIndustry": "1001001002",
+        "coIndustryDesc": "電腦軟體服務業",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170809",
+        "appearDateDesc": "8/09",
+        "optionZone": "266240",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+          "員工175人"
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=387042243c36405631323a632c2e371d0403a426c40463f2121212164382b2625381j56&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4woci&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=387042243c36405631323a632c2e371d0403a426c40463f2121212164382b2625381j56&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "08",
+          "day": "09"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "5319202",
+        "jobName": "美容師/芳療師(中壢店)",
+        "jobNameSnippet": "美容師/芳療師(中壢店)",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "桃園縣中壢市",
+        "jobAddress": "中山路198號",
+        "description": "1.提供各部位美容、美體、精油芳療技術服務。&lt; br/ &gt;2.提供課程及產品銷售服務。\n3.提供美容保養、精油芳療、壓力抒解及養生保健等知識傳達。\n4.上班時間星期一~星期六10:00~20:30，星期日公休\n5.服務滿一年享年特休假\n6.享生日禮生及年節禮品、員購優惠\n7.客源穩定、薪資有保障\n8.受訓期間亦有底薪，無經驗免擔心，不需額外支付保證金",
+        "optionEdu": "高中",
+        "period": "02",
+        "periodDesc": "1年以上",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "36432214000",
+        "custName": "克XXXXXXX汀美容材料坊",
+        "coIndustry": "1009005002",
+        "coIndustryDesc": "美容／美體業",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170802",
+        "appearDateDesc": "8/02",
+        "optionZone": "0",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+          "員工50人"
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=48524c74484e475e393a426b44463e69748784a2c547446292929296b40592e2d008j56&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=360bm&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=48524c74484e475e393a426b44463e69748784a2c547446292929296b40592e2d008j56&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "08",
+          "day": "02"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "7809425",
+        "jobName": "獵才_營運長(測試職務,請勿應徵)",
+        "jobNameSnippet": "獵才_<em class='b-txt--highlight'>營運</em><em class='b-txt--highlight'>長</em>(測試職務,請勿應徵)",
+        "jobRole": "3",
+        "jobRo": "3",
+        "jobAddrNoDesc": "雲林縣林內鄉",
+        "jobAddress": "104號",
+        "description": "測試測試測試測試測試666",
+        "optionEdu": "碩士",
+        "period": "00",
+        "periodDesc": "經歷不拘",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "1046587020",
+        "custName": "阿喵測試銀行公司",
+        "coIndustry": "1004001001",
+        "coIndustryDesc": "銀行業",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "年薪 面議",
+        "appearDate": "20170801",
+        "appearDateDesc": "8/01",
+        "optionZone": "1048576",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+          "無經驗可",
+          "上市上櫃",
+          "員工34人"
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=3d3f492c303d436e356d402545593c1d03d4f472a2a2a2a2a42373b2230j00&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4ndsh&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=3d3f492c303d436e356d402545593c1d03d4f472a2a2a2a2a42373b2230j00&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "08",
+          "day": "01"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "7603217",
+        "jobName": "獵才_專案經理(喵測試口袋版位中請勿動)",
+        "jobNameSnippet": "獵才_專案<em class='b-txt--highlight'>經理</em>(喵測試口袋版位中請勿動)",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "花蓮縣花蓮市",
+        "jobAddress": "",
+        "description": "獵才_專案經理(喵測試口袋版位中請勿動)",
+        "optionEdu": "碩士",
+        "period": "00",
+        "periodDesc": "經歷不拘",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "1046587020",
+        "custName": "阿喵測試銀行公司",
+        "coIndustry": "1004001001",
+        "coIndustryDesc": "銀行業",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170801",
+        "appearDateDesc": "8/01",
+        "optionZone": "1048576",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "獵才_專案<em class='b-txt--highlight'>經理</em>(喵測試口袋版位中請勿動)",
+        "tags": [
+          "無經驗可",
+          "上市上櫃",
+          "員工34人"
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=3b63462a2e3b416c336b3e2343573a1b83b4d45282828286d3f5b352250j98&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4iyoh&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=3b63462a2e3b416c336b3e2343573a1b83b4d45282828286d3f5b352250j98&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "08",
+          "day": "01"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "7598818",
+        "jobName": "派遣全職-經理(喵測試口袋版位中請勿動)",
+        "jobNameSnippet": "派遣全職-<em class='b-txt--highlight'>經理</em>(喵測試口袋版位中請勿動)",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "台北市中正區",
+        "jobAddress": "",
+        "description": "派遣全職-經理(喵測試口袋版位中請勿動)",
+        "optionEdu": "大學",
+        "period": "00",
+        "periodDesc": "經歷不拘",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "1046587020",
+        "custName": "阿喵測試銀行公司",
+        "coIndustry": "1004001001",
+        "coIndustryDesc": "銀行業",
+        "salaryLow": "00000",
+        "salaryHigh": "00000",
+        "salaryDesc": "依公司規定",
+        "appearDate": "20170801",
+        "appearDateDesc": "8/01",
+        "optionZone": "1048576",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "派遣全職-<em class='b-txt--highlight'>經理</em>(喵測試口袋版位中請勿動)",
+        "tags": [
+          "無經驗可",
+          "上市上櫃",
+          "員工34人"
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=644c45292d3a406b326a3d224256391a73a4c4427272727264034342260j52&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4ivaa&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=644c45292d3a406b326a3d224256391a73a4c4427272727264034342260j52&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "08",
+          "day": "01"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "8214970",
+        "jobName": "外派人資長(知名化妝品製造公司)_218IS",
+        "jobNameSnippet": "外派<em class='b-txt--highlight'>人資</em><em class='b-txt--highlight'>長</em>(知名化妝品製造公司)_218IS",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "南投縣魚池鄉",
+        "jobAddress": "中山路599號",
+        "description": "管理深圳三個廠區\n全方位人力資源歷練\n熟大陸招募及勞基法",
+        "optionEdu": "大學",
+        "period": "09",
+        "periodDesc": "8年以上",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "16087755000",
+        "custName": "萬XX股份有限公司(獵派)(365A/1500職務-20180904到期)",
+        "coIndustry": "1009001001",
+        "coIndustryDesc": "人力仲介代徵",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170727",
+        "appearDateDesc": "7/27",
+        "optionZone": "0",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=623a436c3c36405631323a63403e371b85a3a446b4c463e212121211f382b2625381j50&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4w2pm&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=623a436c3c36405631323a63403e371b85a3a446b4c463e212121211f382b2625381j50&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "07",
+          "day": "27"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "8214922",
+        "jobName": "人資經理(知名連鎖餐飲業)___218IS",
+        "jobNameSnippet": "人資<em class='b-txt--highlight'>經理</em>(知名連鎖餐飲業)___218IS",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "南投縣魚池鄉",
+        "jobAddress": "中山路599號",
+        "description": "1.建立完整的召募與任用制度（職務說明書、薪資結構、召募甄選流程與工具）\n2.開發多源召募管道及依公司需求召募中高階主管\n3.熟悉人力資源相關作業流程及勞動法令。\n4.負責公司相關HR政策、制度規章的制訂/修改。\n5.規劃與執行人力資源專案，並進行需求分析及成效評估。 \n6.跨單位溝通、協調及整合能力強。",
+        "optionEdu": "大學",
+        "period": "09",
+        "periodDesc": "8年以上",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "16087755000",
+        "custName": "萬XX股份有限公司(獵派)(365A/1500職務-20180904到期)",
+        "coIndustry": "1009001001",
+        "coIndustryDesc": "人力仲介代徵",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170727",
+        "appearDateDesc": "7/27",
+        "optionZone": "0",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=6a424b74443e485e393a426b48463f23162424c73544e46292929296d40592e2d008j97&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4w2oa&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=6a424b74443e485e393a426b48463f23162424c73544e46292929296d40592e2d008j97&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "07",
+          "day": "27"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "8232860",
+        "jobName": "薪酬福利經理(知名電信業)___218IS",
+        "jobNameSnippet": "薪酬福利<em class='b-txt--highlight'>經理</em>(知名電信業)___218IS",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "南投縣魚池鄉",
+        "jobAddress": "中山路599號",
+        "description": "1. Have experience for building up competence based HRM system, succession plan, retention program and performance management.\n2. Monitors the job market, the modern trends in the compensation and finds the best practice for the implementation.\n3. Manage the compensation policies and procedures with the flexibility while keeping the internal equity and the external competitiveness.\n4. Work closely with the top management, supporting decisions and providing the evidence for discussions within business units.\n5. Develop the basic compensation structures in the organization (grading system, job evaluation system, job description policy, promotion policy, etc) aligned with the corporate culture and the corporate values\n6. Coordinates compensation processes like the salary planning, bonus planning and incentive schemes development\n7. Approves exceptions in the compensation of the individual employees\n8. Trains HR Business Partners and line managers in the compensation area (pay-mix training, etc.)\n9. Leads different HR Projects (not just projects from the compensation and benefits area)\n10. Represents the organization at different HR conferences\n11. Good at the number and assessment skills\n12. HRBP experiences is plus.",
+        "optionEdu": "大學",
+        "period": "06",
+        "periodDesc": "5年以上",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "16087755000",
+        "custName": "萬XX股份有限公司(獵派)(365A/1500職務-20180904到期)",
+        "coIndustry": "1009001001",
+        "coIndustryDesc": "人力仲介代徵",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170727",
+        "appearDateDesc": "7/27",
+        "optionZone": "0",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=5e60426e3c36405631323a63403e371b85a3a446b4c463e212121211e382b2625381j01&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=4wgik&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=5e60426e3c36405631323a63403e371b85a3a446b4c463e212121211e382b2625381j01&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "07",
+          "day": "27"
+        }
+      },
+      {
+        "jobType": "0",
+        "jobNo": "6555982",
+        "jobName": "(S-MS-01) 技術服務經理 Managed Service Delivery Manager",
+        "jobNameSnippet": "(S-MS-01) 技術服務<em class='b-txt--highlight'>經理</em> Managed Service Delivery Manager",
+        "jobRole": "1",
+        "jobRo": "1",
+        "jobAddrNoDesc": "台北市內湖區",
+        "jobAddress": "文XXXXXXX街十二號六樓",
+        "description": "• Pre-sales support activity include presentation and proposal, SOW preparation.\n• Customer needs/requirements analysis, solution architecture design, product sourcing, and project management for the system integration project.\n• Customer needs/requirements analysis, solution architecture design, end to end operation processes design, and project management for the managed services project.\n• Assist sales to maintain the relationship of clients.\n• Vender managment.\n• Co-work with regional headquarter to introduce products and services in company portfolio into Taiwan.",
+        "optionEdu": "大學",
+        "period": "06",
+        "periodDesc": "5年以上",
+        "applyCnt": "00000",
+        "applyDesc": "0~5人應徵",
+        "custNo": "70838728000",
+        "custName": "德XXXXXXX股份有限公司",
+        "coIndustry": "1001001002",
+        "coIndustryDesc": "電腦軟體服務業",
+        "salaryLow": "00990",
+        "salaryHigh": "00990",
+        "salaryDesc": "面議",
+        "appearDate": "20170718",
+        "appearDateDesc": "7/18",
+        "optionZone": "8",
+        "isApply": "0",
+        "applyDate": "",
+        "isSave": "0",
+        "descSnippet": "",
+        "tags": [
+          "外商公司",
+          "員工155人"
+        ],
+        "link": {
+          "applyAnalyze": "//www.s104.com.tw/jobbank/joblist/apply_analyze.cfm?j=6a524b2d5064475e393a426b5a5c3e23166784a303c7447292929292840592e2d008j97&channel=104rpt&jobsource=apply_analysis",
+          "job": "//www.s104.com.tw/job/?jobno=3wimm&jobsource=n104bank2",
+          "cust": "//www.s104.com.tw/jobbank/custjob/index.php?r=cust&j=6a524b2d5064475e393a426b5a5c3e23166784a303c7447292929292840592e2d008j97&jobsource=n104bank2"
+        },
+        "appearDateArray": {
+          "year": "2017",
+          "month": "07",
+          "day": "18"
+        }
+      }
+    ],
+    "manageJobCount": {
+      "recommend": {
+        "url": "/?jobsource=manage&ro=0&keyword=%E8%A1%8C%E9%8A%B7%E9%95%B7%E3%80%81%E8%B2%A1%E5%8B%99%E9%95%B7%E3%80%81%E4%BA%BA%E8%B3%87%E9%95%B7%E3%80%81%E6%8A%80%E8%A1%93%E9%95%B7%E3%80%81%E8%B3%87%E8%A8%8A%E9%95%B7%E3%80%81%E7%87%9F%E9%81%8B%E9%95%B7%E3%80%81%E5%8D%94%E7%90%86%E3%80%81%E8%99%95%E9%95%B7&order=1&asc=0&excludeJobKeyword=%E5%89%AF%E7%90%86%20%E7%A5%95%E6%9B%B8%20%E7%A7%98%E6%9B%B8%20%E5%B0%88%E5%93%A1%20%E8%AA%B2%E9%95%B7%20%E7%B5%84%E9%95%B7%20%E5%8A%A9%E7%90%86&page=1",
+        "ro": 0,
+        "keyword": "行銷長、財務長、人資長、技術長、資訊長、營運長、協理、處長",
+        "excludeKeyword": "副理 祕書 秘書 專員 課長 組長 助理 工讀生",
+        "text": "推薦職缺",
+        "isNew": 3,
+        "count": "91"
+      },
+      "taiwan": {
+        "url": "/?jobsource=manage&ro=0&keyword=%E5%8D%94%E7%90%86%E3%80%81%E8%99%95%E9%95%B7%E3%80%81%E7%87%9F%E9%81%8B%E9%95%B7%E3%80%81%E7%B8%BD%E7%9B%A3%E3%80%81%E5%89%AF%E7%B8%BD%E3%80%81%E8%A1%8C%E9%8A%B7%E9%95%B7%E3%80%81%E8%B2%A1%E5%8B%99%E9%95%B7%E3%80%81%E4%BA%BA%E8%B3%87%E9%95%B7%E3%80%81%E6%8A%80%E8%A1%93%E9%95%B7%E3%80%81%E8%B3%87%E8%A8%8A%E9%95%B7%E3%80%81%E7%B8%BD%E7%B6%93%E7%90%86%E3%80%81VP%E3%80%81CEO%20%E7%B6%93%E7%90%86%20&area=6001000000&order=1&asc=0&excludeJobKeyword=%E5%89%AF%E7%90%86%20%E7%A5%95%E6%9B%B8%20%E7%A7%98%E6%9B%B8%20%E5%B0%88%E5%93%A1%20%E8%AA%B2%E9%95%B7%20%E7%B5%84%E9%95%B7%20%E5%8A%A9%E7%90%86&kwop=7&page=1",
+        "ro": 0,
+        "keyword": "協理、處長、營運長、總監、副總、行銷長、財務長、人資長、技術長、資訊長、總經理、VP、CEO、經理",
+        "excludeKeyword": "副理 祕書 秘書 專員 課長 組長 助理",
+        "area": "6001000000",
+        "text": "台灣職缺",
+        "isNew": 3,
+        "count": "884"
+      },
+      "oversea": {
+        "url": "/?jobsource=manage&ro=0&keyword=%E5%8D%94%E7%90%86%E3%80%81%E8%99%95%E9%95%B7%E3%80%81%E7%87%9F%E9%81%8B%E9%95%B7%E3%80%81%E7%B8%BD%E7%9B%A3%E3%80%81%E5%89%AF%E7%B8%BD%E3%80%81%E8%A1%8C%E9%8A%B7%E9%95%B7%E3%80%81%E8%B2%A1%E5%8B%99%E9%95%B7%E3%80%81%E4%BA%BA%E8%B3%87%E9%95%B7%E3%80%81%E6%8A%80%E8%A1%93%E9%95%B7%E3%80%81%E8%B3%87%E8%A8%8A%E9%95%B7%E3%80%81%E7%B8%BD%E7%B6%93%E7%90%86%E3%80%81VP%E3%80%81CEO%20%E7%B6%93%E7%90%86%20&area=6002000000%2C6005000000%2C6008000000%2C6006000000%2C6003000000%2C6004000000%2C6007000000&order=1&asc=0&excludeJobKeyword=%E5%89%AF%E7%90%86%20%E7%A5%95%E6%9B%B8%20%E7%A7%98%E6%9B%B8%20%E5%B0%88%E5%93%A1%20%E8%AA%B2%E9%95%B7%20%E7%B5%84%E9%95%B7%20%E5%8A%A9%E7%90%86&page=1",
+        "ro": 0,
+        "keyword": "協理、處長、營運長、總監、副總、行銷長、財務長、人資長、技術長、資訊長、總經理、VP、CEO、經理",
+        "excludeKeyword": "副理 祕書 秘書 專員 課長 組長 助理",
+        "area": "6002000000,6005000000,6008000000,6006000000,6003000000,6004000000,6007000000",
+        "text": "海外職缺",
+        "isNew": 3,
+        "count": "90"
+      },
+      "foreign": {
+        "url": "/?jobsource=manage&ro=0&keyword=%E5%8D%94%E7%90%86%E3%80%81%E8%99%95%E9%95%B7%E3%80%81%E7%87%9F%E9%81%8B%E9%95%B7%E3%80%81%E7%B8%BD%E7%9B%A3%E3%80%81%E5%89%AF%E7%B8%BD%E3%80%81%E8%A1%8C%E9%8A%B7%E9%95%B7%E3%80%81%E8%B2%A1%E5%8B%99%E9%95%B7%E3%80%81%E4%BA%BA%E8%B3%87%E9%95%B7%E3%80%81%E6%8A%80%E8%A1%93%E9%95%B7%E3%80%81%E8%B3%87%E8%A8%8A%E9%95%B7%E3%80%81%E7%B8%BD%E7%B6%93%E7%90%86%E3%80%81VP%E3%80%81CEO%20%E7%B6%93%E7%90%86%20&zone=64&order=1&asc=0&excludeJobKeyword=%E5%89%AF%E7%90%86%20%E7%A5%95%E6%9B%B8%20%E7%A7%98%E6%9B%B8%20%E5%B0%88%E5%93%A1%20%E8%AA%B2%E9%95%B7%20%E7%B5%84%E9%95%B7%20%E5%8A%A9",
+        "ro": 0,
+        "keyword": "協理、處長、營運長、總監、副總、行銷長、財務長、人資長、技術長、資訊長、總經理、VP、CEO、經理",
+        "excludeKeyword": "副理 祕書 秘書 專員 課長 組長 助理",
+        "zone": 64,
+        "text": "外商職缺",
+        "isNew": 3,
+        "count": "60"
+      },
+      "hunter": {
+        "url": "/?jobsource=manage&ro=0&keyword=%22104%E7%8D%B5%E6%89%8D%22&fz=0&order=2&asc=0&excludeJobKeyword=%E5%89%AF%E7%90%86%20%E7%A5%95%E6%9B%B8%20%E7%A7%98%E6%9B%B8%20%E5%B0%88%E5%93%A1%20%E8%AA%B2%E9%95%B7%20%E7%B5%84%E9%95%B7%20%E5%8A%A9%E7%90%86%20%E4%BA%BA%E5%93%A1%20%E5%B7%A5%E7%A8%8B%E5%B8%AB&kwop=7&page=1&mode=s",
+        "ro": 0,
+        "keyword": "104獵才",
+        "excludeKeyword": "副理 祕書 秘書 專員 課長 組長 助理 人員 工程師",
+        "text": "104獵才",
+        "order": 2,
+        "count": "1"
+      }
+    }
+  }
+}

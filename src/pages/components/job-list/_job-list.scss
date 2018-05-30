@@ -1,0 +1,138 @@
+.job-list {
+  width: 700px;
+  position: relative;
+}
+
+ul.job-list_tab {
+  font-size: 0;
+  margin-bottom: 12px;
+  & > li.list-inline-item {
+    margin-right: 0;
+    & > a {
+      font-size: 18px;
+      color: #333;
+      line-height: 24px;
+      letter-spacing: .8px;
+      display: block;
+      text-align: center;
+      width: 140px;
+      padding: 0 0 $font-size-base;
+      border-bottom: 3px solid #eee;
+      &:hover, &.active {
+        text-decoration: none;
+        border-bottom: 3px solid #ff9000;
+      }
+      & > small {
+        font-size: 12px;
+        vertical-align: top;
+        &::before, &::after {
+          vertical-align: top;
+        }
+        &::before {
+          content: '(';
+        }
+        &::after {
+          content: ')';
+        }
+      }
+    }
+    &.active {
+      a {
+        border-bottom: 3px solid #ff9000;
+      }
+    }
+  }
+}
+
+.job-list_items {
+  opacity: .5;
+}
+
+.job-list_item {
+  padding: 0 18px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #eee;
+  & a {
+    color: #175ccc;
+  }
+  h2 {
+    font-weight: normal;
+    margin-bottom: 6px;
+    & > a {
+      font-size: 20px;
+      line-height: 0.9;
+    }
+  }
+  ul.job-list_item_intro {
+    margin-bottom: 6px;
+    color: #333;
+    & > li {
+      &::after {
+        content: '|';
+        display: inline-block;
+        margin-left: 20px;
+        margin-right: 8px;
+        transform: translateY(-10%) scaleX(.3) scaleY(1.5);
+        color: #aaa;
+      }
+      &:nth-last-child(1)::after {
+        display: none;
+      }
+    }
+  }
+  p.job-list_item_text,
+  time.job-list_item_date {
+    display: block;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    color: #666;
+  }
+  p.job-list_item_text {
+    height: 40px;
+    overflow: hidden;
+  }
+  &:nth-last-child(1) {
+    border-bottom: 0;
+    margin-bottom: 0;
+  }
+}
+
+.job-list_items_no-data {
+  padding: 30px 20px;
+}
+
+.job-list_items_no-data_img {
+  fill: #ccc;
+  width: 150px;
+}
+
+.job-list_items_no-data_text {
+  color: #666;
+  & > h3 {
+    font-weight: normal;
+    font-size: 24px;
+  }
+  & > p {
+    font-size: 16px;
+  }
+}
+
+.job-list_more {
+  line-height: 40px;
+  & > a {
+    color: #175ccc;
+    &:hover {
+      text-decoration: none;
+      color: #499abf;
+    }
+  }
+}
+
+.job-list_loading {
+  width: 128px;
+  position: absolute;
+  margin: auto;
+  top: 50px;
+  right: 0;
+  left: 0;
+}

@@ -1,0 +1,18 @@
+.job-search-higher {
+  background: #ffe6c8;
+  opacity: .8;
+  .wrapper {
+  	height: 165px;
+  }
+  .job-search-content {
+  	width: auto;
+    padding-left: 0;
+    .d-flex:last-child {
+      margin-top: 0;
+    }
+    button.btn.btn-primary {
+      width: 164px;
+      margin-right: 0;
+    }
+  }
+}

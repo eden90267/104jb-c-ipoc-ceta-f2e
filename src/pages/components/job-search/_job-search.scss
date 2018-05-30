@@ -1,0 +1,112 @@
+.job-search {
+  background: #ffe6c8;
+  opacity: .8;
+  .wrapper {
+    height: 300px;
+    img {
+      width: 368px;
+      height: 218px;
+      left: -294px;
+      bottom: -3px;
+    }
+  }
+}
+
+.job-search-content {
+  padding: 50px 0 0 90px;
+  .d-flex:last-child {
+    margin-top: 30px;
+  }
+  input.form-control, span.input-group-text {
+    font-size: 16px;
+    border: 2px solid theme-color('primary') !important;
+  }
+  input.form-control {
+    border-right-width: 0 !important;
+    padding-left: 16px;
+  }
+  .input-group-append {
+    span.input-group-text {
+      position: relative;
+      width: 138px;
+      color: $gray-40;
+      cursor: pointer;
+      border-left-width: 0 !important;
+      border-right-width: 0 !important;
+      background: url('../img/ill_arrow_search.gif') no-repeat 97% center;
+      &:before {
+        content: "|";
+        position: absolute;
+        left: 0;
+        transform: translateY(-3%) scaleX(.3) scaleY(1.7);
+        color: #ddd;
+      }
+    }
+    &.last {
+      margin-right: 20px !important;
+      span.input-group-text {
+        border-right-width: 2px !important;
+        border-top-right-radius: .25rem !important;
+        border-bottom-right-radius: .25rem !important;
+      }
+    }
+  }
+  button.btn.btn-primary {
+    width: 200px;
+    height: 42px;
+    font-size: 20px;
+    margin-right: 10px;
+  }
+}
+
+.job-search-content_link {
+  width: 704px;
+  padding-left: 18px;
+}
+
+.job-search-content_link_key {
+  li {
+    margin-right: 10px !important;
+    a {
+      line-height: 1.71;
+      color: $gray-40;
+    }
+  }
+  li:nth-child(10n+0) {
+    margin-right: 0 !important;
+  }
+}
+
+.job-search-content_link_area {
+  li {
+    margin-right: 16px !important;
+    position: relative;
+    &::after {
+      content: '|';
+      position: absolute;
+      right: -12px;
+      color: $gray-40;
+      transform: translateY(-5%) scaleX(.3);
+    }
+    &:nth-last-child(1)::after {
+      display: none;
+    }
+    a {
+      color: #000 !important;
+    }
+  }
+}
+
+.job-search-content_link_category {
+  width: 209px;
+  padding-left: 60px;
+  border-left: 1px solid #d2c2ae;
+  ul {
+    margin-bottom: 0;
+    li a {
+      color: #000;
+      font-size: 16px;
+      line-height: 1.88;
+    }
+  }
+}

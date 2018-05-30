@@ -1,0 +1,48 @@
+.brand {
+  position: relative;
+  &:before {
+    content: '品牌大賞';
+    position: absolute;
+    top: 12px;
+    z-index: 1000;
+    @include size(80px, 50px);
+    line-height: 50px;
+    display: block;
+    background-color: theme-color("primary");
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1.1px;
+    text-align: center;
+  }
+  &.hidden:before {
+    display: none;
+  }
+}
+
+.brand_card-1 {
+  width: 520px;
+  .card-img-overlay {
+    padding-top: 150px;
+    h5 {
+      font-size: 18px;
+    }
+    ul li {
+      line-height: 1.71;
+      color: $gray-20;
+    }
+    a.btn {
+      margin-left: 18px;
+      &:hover, &:active {
+        color: #fff;
+      }
+    }
+  }
+  p {
+    color: #999
+  }
+}
+
+.brand_card-2 {
+  width: 504px;
+}

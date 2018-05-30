@@ -1,0 +1,169 @@
+html {
+  font-size: 14px;
+}
+
+a {
+  color: $gray-20;
+  &:hover {
+    color: $gray-20;
+    img {
+      opacity: .8;
+    }
+  }
+}
+
+a.a_img-opaque {
+  img {
+    opacity: 1;
+  }
+}
+
+a.btn.btn-primary, button.btn.btn-primary {
+  color: #fff;
+  &:hover, &:active {
+    color: #fff;
+    background-color: #FF7800;
+    border-color: transparent;
+  }
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.modal > .modal-dialog > .modal-content > .modal-header > .button.close {
+  cursor: pointer;
+}
+
+// custom
+
+.text-gray-20 {
+  color: $gray-20;
+}
+.text-gray-40 {
+  color: $gray-40;
+}
+
+.bg-gray-20 {
+  background-color: $gray-20;
+}
+.bg-gray-40 {
+  background-color: $gray-40;
+}
+
+.border-color-gray-20 {
+  border-color: $gray-20 !important;
+}
+.border-color-gray-40 {
+  border-color: $gray-40 !important;
+}
+
+.h-0 {
+  height: 0 !important;
+}
+
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+  & > .title {
+    font-size: 18px;
+    line-height: 1.67;
+    font-weight: bold;
+  }
+}
+
+.vip-card {
+  position: relative;
+  transition-property: height;
+  transition-duration: .3s;
+  transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
+  width: 251px; // for IE
+  height: 200px;
+  overflow: hidden;
+  .card-line {
+    top: 0;
+    width: 251px;
+    height: 5px;
+    background-color: #eaecef;
+    position: absolute;
+  }
+  .card-body {
+    p {
+      color: $gray-20;
+      line-height: 23px; // chrome: 1.71, firefox: 1.64
+    }
+    .vip-card_job-list {
+      li {
+        line-height: 23px; // chrome: 1.71, firefox: 1.64
+        a {
+          color: #175ccc;
+          &:visited {
+            color: #168ccc;
+          }
+        }
+      }
+    }
+    .vip-card_job-list-more {
+      a {
+        color: theme-color("primary");
+      }
+    }
+  }
+  .card-divider {
+    height: 1px;
+    background-color: #eaecef;
+    margin: 0 7px;
+  }
+  .card-footer {
+    color: #999;
+    span {
+      font-size: 13px;
+      color: #999;
+    }
+  }
+}
+
+.vip-card.active {
+  height: 401px;
+  .card-line {
+    background-color: theme-color("primary");
+  }
+  .vip-card_job-list, .vip-card_job-list-more, .vip-card_job-list-ad {
+    display: block !important;
+  }
+}
+
+.js_card-new-tab img,
+.js_card-new-tab .card-body {
+  cursor: pointer;
+}
+
+.card-mouseover {
+  img {
+    opacity: .8;
+  }
+  .card-body {
+    text-decoration: underline;
+  }
+}
+
+.js_media-new-tab img,
+.js_media-new-tab .media-body > .media-content {
+  cursor: pointer;
+}
+
+.media-mouseover {
+  img {
+    opacity: .8;
+  }
+  .media-body > .media-content {
+    text-decoration: underline;
+  }
+}
+
+.list-spec-style {
+  & > li:before {
+    @include list-style();
+    border-color: #ccc;
+  }
+}

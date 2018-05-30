@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>104人力銀行 快速找到適合你的工作</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosanstc.css">
+    <link rel="stylesheet" href="css/all.css?<%= new Date().getTime() %>">
+</head>
+<body>
+<header class="position-relative">
+    <div class="wrapper">
+        <nav class="d-flex align-items-center">
+            <h1 class="logo m-0"><a href="index.html">104人力銀行 - 不只找工作為你找方向</a></h1>
+            <ul class="list-inline mb-0 ml-4 header_persona-list">
+                <li class="list-inline-item"><a href=https://www.104.com.tw/area/student/index.cfm">學生</a></li>
+                <li class="list-inline-item"><a href="https://www.104.com.tw/area/freshman/main/index">新鮮人</a></li>
+                <li class="list-inline-item"><a href="https://www.104.com.tw/area/cj/">上班族</a></li>
+                <li class="list-inline-item <% if (locals.higher) { %>active<% } %>"><a href="higher.html">中高階</a></li>
+            </ul>
+            <ul class="list-inline mb-0 ml-auto header_member-list">
+                <li class="list-inline-item">
+                    <a href="#" class="js-header_member-item-login-link">
+                        <span class="login-icon"></span>
+                        <span>求職請進</span>
+                    </a>
+                </li>
+                <li class="list-inline-item ml-4">
+                    <a href="#" class="js-header_member-item-vip-link">
+                        <span class="vip-icon"></span>
+                        <span>徵才請進</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="d-flex align-items-center header_member-menu login">
+        <nav class="wrapper text-right">
+            <ul class="list-inline mb-0">
+                <li class="list-inline-item"><a href="https://login.104.com.tw/my104/characteristic.cfm">功能介紹</a></li>
+                <li class="list-inline-item"><a href="https://www.104.com.tw/jobbank/faq/index.cfm">常見問題</a></li>
+                <li class="list-inline-item"><a href="https://signin.104.com.tw/?sessionDataKey=84f9d83d-59cb-4a4c-ae14-e1ba02632e96&relyingParty=myaccount&type=samlsso&sp=myaccount&authenticators=FacebookAuthenticator%3Afacebook&BasicAuthenticator%3ALOCAL%3ALOCAL&RelayState=aHR0cHM6Ly9hY2NvdW50cy4xMDQuY29tLnR3L2xvZ2lu#/">求職會員登入</a></li>
+                <li class="list-inline-item"><a href="https://signin.104.com.tw/?done=register&sessionDataKey=6d79ab87-5161-40f2-b83a-d50a97baa599&relyingParty=my104&type=samlsso&sp=my104&authenticators=FacebookAuthenticator%3Afacebook&BasicAuthenticator%3ALOCAL%3ALOCAL&RelayState=aHR0cHMlM0ElMkYlMkZwZGEuMTA0LmNvbS50dyUyRmZvcndhcmQuY2ZtJTNGZnVuX2NvZGUlM0Q3M3JveXlsc3g1ZCUyNmRldmljZVN3aXRjaCUzRGF1dG8%3D&q=ZG9uZT1yZWdpc3Rlcg%3D%3D#/signup">新會員註冊</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="d-flex align-items-center header_member-menu vip">
+        <nav class="wrapper text-right">
+            <ul class="list-inline mb-0">
+                <li class="list-inline-item"><a href="https://www.104.com.tw/biz/index.cfm?url=104n">人資服務總覽</a></li>
+                <li class="list-inline-item"><a href="https://pro.104.com.tw/vip/preLogin/login?utm_source=104c&utm_medium=button&utm_campaign=vip_login">徵才會員登入</a></li>
+                <li class="list-inline-item"><a href="https://pro.104.com.tw/vip/?utm_source=104c&utm_medium=button&utm_campaign=2018prelogin">新客戶請進</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<div class="modal fade" id="outsideLinkModal" tabindex="-1" role="dialog" aria-labelledby="outsideLinkModal"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content rounded-0">
+            <div class="modal-header py-2">
+                <div class="button close" data-dismiss="modal" aria-label="取消">
+                    <span aria-hidden="true">&times;</span>
+                </div>
+            </div>
+            <div class="modal-body">
+                您即將離開104人力銀行暨一零四集團相關網域，提醒您！確定離開後，<br>請小心謹慎使用您的個人資料！
+            </div>
+            <div class="modal-footer justify-content-center">
+                <a class="btn btn-primary">確定</a>
+            </div>
+        </div>
+    </div>
+</div>

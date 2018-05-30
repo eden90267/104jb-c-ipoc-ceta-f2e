@@ -1,0 +1,8 @@
+<%- include('layout/_header') %>
+<%- include('../components/job-search/_job-search') %>
+<%- include('layout/_script') %>
+<script>
+  new JobSearch().render('http://localhost:3002/api/job-search');
+</script>
+</body>
+</html>

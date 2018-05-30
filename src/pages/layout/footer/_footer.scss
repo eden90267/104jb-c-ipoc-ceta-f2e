@@ -1,0 +1,44 @@
+@import "../../../sass/lib/bootstrap/variables";
+
+footer {
+  padding-top: 30px;
+  background-color: #ddd;
+  .wrapper {
+    padding-bottom: 65px;
+    h3 {
+      font-size: 16px;
+      letter-spacing: 1.2px;
+    }
+    a img:hover {
+      opacity: 1;
+    }
+    .divider {
+      height: 1px;
+      border-top: 1px solid #fff;
+      margin: 32px 0 32px -32px;
+    }
+    ul {
+      margin-bottom: 0;
+      li {
+        line-height: 1.71;
+        a {
+          color: $gray-20;
+          letter-spacing: 1.1px;
+        }
+      }
+    }
+  }
+}
+
+.service-link-list li {
+  width: 95px;
+}
+
+.copyright-bar {
+  letter-spacing: 1.1px;
+}
+
+.service-time {
+  color: $gray-40;
+}
+

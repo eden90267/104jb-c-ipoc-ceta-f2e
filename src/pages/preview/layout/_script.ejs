@@ -1,0 +1,31 @@
+<script src="js/vendor.js?<%= new Date().getTime() %>"></script>
+<script src="js/preview.js?<%= new Date().getTime() %>"></script>
+<script>
+  var AD_RES_KEY_BANNER1_2 = 'b_777';
+  var AD_RES_KEY_SPEC_COMPANY_1 = 'b_782';
+  var AD_RES_KEY_SPEC_COMPANY_2 = 'b_779';
+  var AD_RES_KEY_BANNER_2 = 'b_780';
+  var AD_RES_KEY_HOT_VIP = 'b_781';
+  var AD_RES_KEY_STRONGEST_MAIN_1 = 'b_784';
+  var AD_RES_KEY_STRONGEST_MAIN_2 = 'b_785';
+  var AD_RES_KEY_STRONGEST_MAIN_3 = 'b_786';
+  var AD_RES_KEY_STRONGEST_MAIN_4 = 'b_787';
+  var AD_RES_KEY_BRAND = 'b_783';
+
+  var AD_QUERY_PARAM_PRE_VIEW_KEY = 'pvk';
+
+  var CAROUSEL_INTERVAL = 15 * 1000;
+  new Header().afterRender();
+
+  <% if(locals.ad) { %>
+  var data;
+  var error;
+  try {
+    data = JSON.parse(decodeURIComponent(BrowserHelper.getQueryParamByName(AD_QUERY_PARAM_PRE_VIEW_KEY)));
+    data = data || [];
+  } catch (e) {
+    console.error(e);
+    error = e;
+  }
+  <% } %>
+</script>

@@ -1,0 +1,9 @@
+<%- include('layout/_header') %>
+<%- include('../components/banner-1/_banner-1') %>
+<%- include('layout/_script', {ad: true}) %>
+<script>
+  $('.js-banner-1 > .col-9').hide();
+  new Banner1().render2(error, data, false);
+</script>
+</body>
+</html>

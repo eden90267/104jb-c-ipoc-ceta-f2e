@@ -1,0 +1,45 @@
+.workplace-senior {
+  a:hover {
+    text-decoration: none;
+    .workplace-senior_content {
+      opacity: 0.8;
+    }
+  }
+  .workplace-senior_content {
+    background-color: #f4f4f4;
+    .media {
+      width: 725px;
+      padding: 18px 25px 14px 25px;
+      .media-body {
+        h5 {
+          font-size: 20px;
+          line-height: 1.5;
+        }
+        small {
+          font-size: 14px;
+          line-height: 1.71;
+          margin-right: 25px;
+        }
+        p {
+          line-height: 1.71;
+        }
+      }
+    }
+    .workplace-senior_about {
+      border-left: 1px solid #ddd;
+      h5 {
+        font-size: 16px;
+      }
+      ul {
+        li {
+          font-size: 14px;
+          line-height: 1.88;
+          &:before {
+            @include list-style();
+            border-color: #aaa;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.hot-vip-list {
+  border: 4px solid #f4f4f4;
+  li {
+    @include size(145.1px, 100px);
+    img:hover {
+      opacity: 1;
+    }
+  }
+}

@@ -1,0 +1,47 @@
+.banner-1 {
+  position: relative;
+  top: -50px;
+  margin-bottom: -18px;
+}
+
+.banner-1_1, .banner-1_2 {
+  border: 1px solid #ddd;
+}
+
+.banner-1_1 {
+  width: 741px;  // for IE
+  height: 212px; // for IE
+  margin-right: 27px;
+  position: relative;
+}
+
+.banner-1_1_item {
+  &:after {
+    content: '104活動';
+    font-size: 12px;
+    line-height: 18px;
+    height: 18px;
+    width: 54px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    left: calc(320px - 54px);
+    top: 10px;
+    background-color: #ff9000;
+    color: #fff;
+  }
+  h5 {
+    font-size: 16px;
+  }
+  p {
+    margin-right: $font-size-base;
+    line-height: 1.71;
+  }
+  hr {
+    margin-left: -8px;
+    margin-right: 40px;
+  }
+  ul li:before {
+    @include list-style()
+  }
+}

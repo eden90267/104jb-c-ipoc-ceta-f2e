@@ -1,0 +1,23 @@
+.video {
+  & .card-body {
+    padding: 20px 0;
+  }
+  & .card-title {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.88;
+    text-align: left;
+    color: #175ccc;
+  }
+  & .video_more > a {
+    color: #175ccc;
+    &:hover {
+      opacity: .8;
+      text-decoration: none;
+    }
+  }
+}
+
+.video-card-mouseover {
+  opacity: .8;
+}

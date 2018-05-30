@@ -1,0 +1,32 @@
+.workplace-focus {
+  .card {
+    width: 320px;
+    img {
+      border: 1px solid #ddd;
+    }
+    h5.card-title {
+      font-size: 20px;
+      line-height: 1.5;
+      color: $gray-20;
+    }
+    p {
+      font-size: 14px;
+      line-height: 1.71;
+      color: $gray-40;
+    }
+    ul li {
+      a {
+        font-size: 16px;
+        color: #175ccc;
+        line-height: 1.88;
+        &:visited {
+          color: #168ccc;
+        }
+      }
+      &:before {
+        @include list-style();
+        border-color: #aaa;
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@mixin size($width, $height) {
+  width: $width;
+  height: $height;
+}
+
+// ul > li:before
+@mixin list-style($color: "primary") {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border: 2px solid theme-color($color);
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-bottom: 1.5px;
+}

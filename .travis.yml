@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+    - "10"
+    - "9"
+    - "8"
+
+cache:
+  directories:
+    node_modules
+
+notifications:
+  slack:
+    secure: bMEhwaXy8/MSNhColnUPQc9Q0Rwz7fnQHCjYrOrCviZDdGAR+wal8FQMLr+rSNzXfOZi9VYe+hztrWzZyNBxadyMgOrvFCVGR5x6pVObwY6DuzHZvpz8bwDPrSpv2LTlhK5/nkzlxYG609pciH6sZZhdRmDe1xlrkWUyhWnKtoZ3wwDLib5t+RiVGC9iTbQaTKNwFMWdjKLdadA0cRZnWQvm0Zaj+TahMBqSSCoRTvye4BQrOE8+9BtFwPabUOkoD5IIsn7aQv2sGkzZKm2t5M3Qhs3BravcGId0Q8++xS4vOfi+iTKN1zKA0LUXWuhhkkgsHvMwDhEj2JJoL2bflu9ZM0aJCz+VmH+h8luOxOxp8EP6R4IHxTZiYjvtuCwAMMt/aprrwiZIvqpMIu7ZdRGYoVjvqHJ+eD+9uxza8e9WGOJ6hgEO+M+jH33QoKWJZOGjrAGytfB4M9wnObUEoJMuCEGRJtcbdEm84hfXsJ04R6ww3BN4y/1i3uzutHtdJmBYkteaX7uoV7NF4Hraf9UFlvN7DwY3brcOa+hWvGPaCC7Ha9IJvCMgDHJUBg8tibSEyk6qMjGzaOOg5NSN9fL21ORrgd8dspB7ANtfJwobvpMWL1H0Nl4cZN1UfYFDzC2NAgFZratFZW29/p/oBFH3DRWb33Jg82uul8LSsfQ=

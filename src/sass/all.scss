@@ -1,0 +1,65 @@
+
+@import "functions";
+@import "lib/bootstrap/variables";
+@import "mixins";
+@import "root";
+@import "reboot";
+@import "type";
+@import "images";
+//@import "code";
+@import "grid";
+//@import "tables";
+@import "forms";
+@import "buttons";
+@import "transitions";
+@import "dropdown";
+@import "button-group";
+@import "input-group";
+//@import "custom-forms";
+//@import "nav";
+//@import "navbar";
+@import "card";
+//@import "breadcrumb";
+//@import "pagination";
+//@import "badge";
+//@import "jumbotron";
+//@import "alert";
+//@import "progress";
+@import "media";
+@import "list-group";
+//@import "close";
+@import "modal";
+//@import "tooltip";
+//@import "popover";
+@import "lib/bootstrap/carousel";
+@import "utilities";
+//@import "print";
+
+
+// custom styles
+
+@import "base/mixin";
+@import "base/typography";
+
+@import "../pages/layout/header/header";
+@import "../pages/layout/footer/footer";
+
+@import "../pages/components/job-search/job-search";
+@import "../pages/components/job-search-higher/job-search-higher";
+@import "../pages/components/banner-1/banner-1";
+@import "../pages/components/spec-company/spec-company";
+@import "../pages/components/strongest-main/strongest-main";
+@import "../pages/components/banner-2/banner-2";
+@import "../pages/components/brand/brand";
+@import "../pages/components/hot-vip/hot-vip";
+@import "../pages/components/workplace-focus/workplace-focus";
+@import "../pages/components/workplace-senior/workplace-senior";
+
+@import "../pages/components/job-list/job-list";
+@import "../pages/components/banner-3/banner-3";
+@import "../pages/components/hunter/hunter";
+@import "../pages/components/video/video";
+@import "../pages/components/giver/giver";
+
+@import "pages/index";
+@import "pages/higher";

@@ -1,0 +1,42 @@
+.strongest-main {
+  .carousel > .carousel-inner {
+    & > a.carousel-control-prev > span.carousel-control-prev-icon,
+    & > a.carousel-control-next > span.carousel-control-next-icon {
+      margin-bottom: 46px;
+    }
+  }
+  .card {
+    width: 240px;
+  }
+  .card-body p {
+    color: $gray-40;
+    line-height: 1.71;
+  }
+}
+
+.strongest-main_job-title-list {
+  &::before {
+    content: '';
+    background-image: url('../img/icon_apply.png');
+    @include size(20px, 20px);
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 2px;
+    margin-right: 3px;
+  }
+  a {
+    color: #175ccc;
+    &:visited {
+      color: #168ccc
+    }
+  }
+}
+
+.strongest-main_job-card-mouseover {
+  img {
+    opacity: .8;
+  }
+  .card-body h5 {
+    text-decoration: underline;
+  }
+}
