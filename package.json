@@ -4,8 +4,9 @@
   "scripts": {
     "start": "gulp",
     "build": "gulp build --env production",
-    "test": "mocha --require intelli-espower-loader test/**/*.test.js",
-    "cov": "nyc mocha test/**/*.test.js"
+    "test": "mocha --require intelli-espower-loader tests/**/*.test.js",
+    "cov": "nyc mocha tests/**/*.test.js",
+    "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
   },
   "dependencies": {
     "autoprefixer": "^6.7.7",
@@ -37,6 +38,7 @@
   "devDependencies": {
     "intelli-espower-loader": "^1.0.1",
     "mocha": "^5.1.1",
+    "mocha-lcov-reporter": "^1.3.0",
     "nyc": "^11.7.1",
     "power-assert": "^1.5.0"
   }
