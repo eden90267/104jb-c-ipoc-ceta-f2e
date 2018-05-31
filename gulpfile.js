@@ -56,8 +56,8 @@ gulp.task('babelPreview', () =>
     `.${srcPath}/pages/components/**/*.js`,
   ])
     .pipe($.plumber())
-    .pipe($.sourcemaps.init())
     .pipe($.concat('preview.js'))
+    .pipe($.sourcemaps.init())
     .pipe($.babel({
       presets: ['es2015']
     }))
@@ -84,8 +84,8 @@ gulp.task('babelHigher', () =>
     `.${srcPath}/js/pages/higher.js`
   ])
     .pipe($.plumber())
-    .pipe($.sourcemaps.init())
     .pipe($.concat('higher.js'))
+    .pipe($.sourcemaps.init())
     .pipe($.babel({
       presets: ['es2015']
     }))
@@ -112,8 +112,8 @@ gulp.task('babel', ['babelHigher', 'babelPreview'], () =>
     `.${srcPath}/js/pages/index.js`
   ])
     .pipe($.plumber())
-    .pipe($.sourcemaps.init())
     .pipe($.concat('index.js'))
+    .pipe($.sourcemaps.init())
     .pipe($.babel({
       presets: ['es2015']
     }))
